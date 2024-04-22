@@ -7,13 +7,13 @@
 
 ### Welcome to my Github Profile
 
-I am Anikait and I have a passion for exploring and analyzing data to identify patterns and trends that can make informed business decisions. I possess the skills necessary to analyze complex data sets and build predictive dashborads. I am constantly seeking to learn and grow in the field of data science and I am committed to stay up-to-date with the latest trends and technologies.
+Hi, I'm Anikait, and I'm passionate about delving into data to uncover valuable insights that drive informed business decisions. Equipped with the skills to analyze intricate datasets and construct predictive dashboards, I thrive on turning raw data into actionable strategies. Continuously seeking opportunities for growth, I am dedicated to expanding my expertise as a data analyst and staying abreast of the latest trends and technologies in the field.
 
 ## 🔗 About Me:
 
-- 🌱 I’m currently open for roles of Data analyst 
-- 🌱 I am looking to collaborate on Data Analysis projects .
-- 🌱 I am currently looking to enhance my skills in the field of Data science by focusing on machine learning
+- 🌱 I am currently seeking opportunities as a Data Analyst and eager to collaborate on data analysis projects
+- 🌱 My primary goal is to advance my skills in the field of Data Science, with a specific focus on machine learning.
+- 🌱 Committed to continuous learning to keep up with the latest trends in Data Science and machine learning.
 
 
 ## 💻 Technical Skills: 
